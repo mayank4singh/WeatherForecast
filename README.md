@@ -10,6 +10,7 @@ Interface|Attempt|Result
 
 ## Download
 
+
 Go to the [Releases](https://github.com/mayank4singh/WeatherForecast/releases/tag/v1.0) to download the latest APK.
 
 # Don't forget to star and fork the repo
