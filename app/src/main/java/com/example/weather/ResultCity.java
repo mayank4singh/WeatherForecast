@@ -18,6 +18,7 @@ public class ResultCity extends AppCompatActivity {
         txt = findViewById(R.id.textView2);
         backtologin = findViewById(R.id.back);
 
+        
         String val = getIntent().getStringExtra("main" );
         txt.setText(val );
 
